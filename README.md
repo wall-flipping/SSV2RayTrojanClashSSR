@@ -28,6 +28,9 @@
 <b><h2>4）[NiceDuck](https://my.niceduck.io/register?code=2o3T6rG1)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多入口隧道中转SS线路，国内多入口，高SLA保证高端大机场，低价格，高品质，速度拉满，有<strong> "流量包" </strong>套餐。节点包括：港，台，日，美，韩，新加坡等。全节点流媒体支持，包括ChatGPT/Netfilx/Disney+/Dazn/动画疯/Abema/DMM等，套餐可低至每月 6 块 6 毛 6。<Strong>赠送硬盘服Emby，配有国内直连线路和0.01倍率Emby专属节点，堪比爱优腾的体验，4K影片秒开，体验感拉满！</Strong></p>
 
+<h3>👉 圣诞元旦双节优惠活动 8 折优惠码：duck-8</h3>
+<h3>👉 活动时间：2024/12/20—2025/01/19</h3>
+
 <h3>👉 官网地址：https://bit.ly/3O13OiY</h3>
 
 <b><h2>5）[M78星云](https://m78star.cloud/#/register?code=TfURQ1ug)</h2></b>
@@ -99,9 +102,6 @@
 
 <b><h2>9）[Bocchi](https://bocchi.site/#/register?code=yv50YPu4)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30+全球各国节点，包含高纯净度家宽IP不限速SS机场，高达 2Gbps 的速率，4K流畅，8K视频随意观看。节点包括香港，台湾，日本，新加坡，美国，韩国，加拿大，荷兰，阿根廷，土耳其，尼日利亚，德国，英国，南极等。不限制使用设备数，Netflix，hulu，Disney+等多国流媒体解锁,所有服务器均以无日志形式运行，保障您的隐私安全,多客户端支持，多平台教程齐全，小白友好。</p>
-
-<h3>👉 双十二活动七折优惠码：1212</h3>
-<h3>👉 活动时间：2024/12/04 00:00 ~ 2024/12/12 00:00</h3>
 
 <h3>👉 官网地址：https://bit.ly/3wcLLkw</h3>
 

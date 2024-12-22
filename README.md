@@ -18,10 +18,16 @@
 <b><h2>2）[FastLink](https://flafflnk.flaff9.cc/auth/register?code=je8N)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anycast全球加速技术，节点速度高达2Gbps，秒开4k、支持8K，IPLC，中转应有尽有，高峰期稳定，体验宛如身在海外，提供香/日/韩/台/新/美/俄/加/德/英/法/土/荷/印/阿根廷/澳大利亚/巴西等多国节点 全V2ray节点，高速稳定不怕墙，流媒体解锁，服务态度友好，提供美区APPleId，可以单独定制套餐VIP，<strong>现在注册即可白嫖三天体验套餐，白嫖优惠码：599_f3cz8bzm</strong>。</p>
 
+<h3>👉 圣诞元旦双节优惠活动 7 折优惠码：FL70</h3>
+<h3>👉 活动时间：2024/12/20—2025/01/15, 所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上两个蛋的节日活动7折之后再八折相当于5.6折，力度相当诱人。</h3>
+
 <h3>👉 官网地址：https://bit.ly/439GVk1</h3>
 
 <b><h2>3）[SpeedCat](https://github01.youbbv.com/auth/register?code=7TiK)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;稳如闪电，快如肥猫，高端全专线 IPLC，无倍率套路，原生节点大机场，节点包括，港，台，美，日，新加坡，英国，马来西亚，阿根廷，土耳其。Netflix ,Disney+, hulu等当地流媒体全解锁，<strong>注册即可免费白嫖3天，白嫖优惠码：free </strong>。</p>
+
+<h3>👉 圣诞元旦双节优惠活动 7 折优惠码：SCSD70</h3>
+<h3>👉 活动时间：2024/12/20—2025/01/15, 所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上两个蛋的节日活动7折之后再八折相当于5.6折，力度相当诱人。</h3>
 
 <h3>👉 官网地址：https://bit.ly/3JCIZJn</h3>
 
@@ -85,7 +91,7 @@
 <h3>👉 官网地址：https://bit.ly/3VhZhNk</h3>
 
 <b><h2>5）[淘气兔](https://taoqitu.me/index.html?register=OdyZEGNV)</h2></b>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全大陆中转不限速大机场， 节点包括：香港，台湾，日本，新加坡，美国，马来西亚，俄罗斯，英国，西班牙，土耳其。Netflix，Hulu，Disney+，Paramount等流媒体全解锁。解锁chatgpt。不限制设备数。<strong>有不限时"纯流量"套餐，无月付季付年付，用多少算多少直到用完，月费低至 6 块</strong>，</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全大陆中转不限速大机场， 节点包括：香港，台湾，日本，新加坡，美国，马来西亚，俄罗斯，英国，西班牙，土耳其。Netflix，Hulu，Disney+，Paramount等流媒体全解锁。解锁chatgpt。不限制设备数。<strong>有不限时"纯流量"套餐，无月付季付年付，用多少算多少直到用完，月费低至 7.8 块</strong>，</p>
 
 <h3>👉 官网地址：https://bit.ly/4fivvyN</h3>
 

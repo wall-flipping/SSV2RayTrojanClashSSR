@@ -44,6 +44,14 @@
 
 <h3>👉 新用户7.8折优惠码：m78-22off，永久有效</h3>
 
+<h3>👉2025元旦季付85折优惠码：season85 </h3>
+
+<h3>👉2025元旦半年付82折优惠码：halfyear82 </h3>
+
+<h3>👉2025元旦年付8折优惠码：year80 </h3>
+
+<h3>👉有效期：2024/12/24—2025/01/06 </h3>
+
 <h3>👉 官网地址：https://bit.ly/3TJ0RYA</h3>
 
 <b><h2>6）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)</h2></b>
@@ -102,6 +110,10 @@
 
 <b><h2>7）[HaloCloud](https://cloud.halo.do/#/auth/signup;referral=nmxKiD0h)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SS协议的高端专线机场，三网IEPL专线接入和低倍率国内中转线路，可用总带宽超10G。流媒体Netflix，DIsney+等都解锁，支持chatgpt。，港、台、日、新、美、 越南、泰国、马来西亚、 澳大利亚、英国、芬兰、加拿大、乌克兰、土耳其、罗马尼亚、 巴基斯坦等主流地区落地，不限制设备数和网络速度。中转计划提供中转+广移IEPL，专线计划提供三网IEPL+低倍率中转+沪日IPLC线路。节点低倍率低至0.5倍。高峰期4K流畅，8K不卡。</p>
+
+<h3>👉 双节专属优惠码 halo2025 ，即可享受所有套餐8折优惠</h3>
+
+<h3>👉 时间： 2024年12月25日至2025年1月5日</h3>
 
 <h3>👉 官网地址：https://bit.ly/3A8mJ88</h3>
 

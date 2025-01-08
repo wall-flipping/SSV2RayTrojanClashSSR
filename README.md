@@ -44,22 +44,10 @@
 
 <h3>👉 新用户7.8折优惠码：m78-22off，永久有效</h3>
 
-<h3>👉2025元旦季付85折优惠码：season85 </h3>
-
-<h3>👉2025元旦半年付82折优惠码：halfyear82 </h3>
-
-<h3>👉2025元旦年付8折优惠码：year80 </h3>
-
-<h3>👉有效期：2024/12/24—2025/01/06 </h3>
-
 <h3>👉 官网地址：https://bit.ly/3TJ0RYA</h3>
 
 <b><h2>6）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多地域接入，阿里云、腾讯云、优刻得UDPN 多个 BGP 入口， BGP+IPLC专线传输高端大机场，Netfilx/Hulu/HBO/Disney+/Dazn等流媒体全解锁，线路主打稳定。不限速。8K毫无压力。节点包括，香港，澳门，日本，台湾， 新加坡，美国, 蒙古，韩国，朝鲜，印度，印度尼西亚，越南，菲律宾，柬埔寨，马来西亚，泰国，哥伦比亚，缅甸，孟加拉国，尼泊尔，澳大利亚，新西兰，加拿大，墨西哥，巴西，智利，阿根廷，秘鲁，玻利维亚，德国，英国，法国，荷兰，新西兰，爱尔兰，意大利，卢森堡，瑞士，丹麦，芬兰，瑞典，挪威，奥地利，捷克，冰岛，土耳其，比利时，葡萄牙，波兰，爱沙尼亚，匈牙利，俄罗斯，乌克兰，摩尔多瓦，罗马尼亚，保加利亚，塞尔维亚，希腊，以色列，伊朗，多哥，埃及，约旦，迪拜，沙特阿拉伯，阿曼，乌兹别克斯坦，巴基斯坦，哈萨克斯坦，尼日利亚，安哥拉，南非，南极等数十个国家和地区。支持Windows/Mac/iOS/Android/路由器，支持多设备同时使用。<strong>独家保障新疆地区，现在注册即可免费白嫖</strong>。 </p>
-
-<h3>👉 圣诞节日专属全场 85 折优惠码: 15%OFF </h3>
-
-<h3>👉 活动时间：即日起至2024/12/26 23:59</h3>
 
 <h3>👉 官网地址：https://bit.ly/476L1M5</h3>
 
@@ -81,20 +69,10 @@
 <b><h2>3）[智连云](https://xinzhilian.xyz/register?code=sWdm0JKC)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全大陆中转高速稳定，低延时线路，4K视频秒载，解锁Netflix，Disney+，Hulu等流媒体和ChatGPT，有纯“流量”套餐，节点地区包括：港，新加坡，日本，台湾，美国，英国，法国，荷兰，越南等。24小时快速工单支持。<strong>注册即可享受免费白嫖</strong>。</p>
 
-<h3>👉 月/季/半年优惠20%: 1111</h3>
-<h3>👉 年付优惠30%:2222</h3>
-<h3>👉 不限时10%优惠码: 3333</h3>
-<h3>👉 2024/12/01～2024/12/31结束</h3>
-
 <h3>👉 官网地址：https://bit.ly/47oYLBG</h3>
 
 <b><h2>4）[动力港](https://dkwi2-80432.dongligang.xyz/#/register?code=xUcZ8i2L)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全大陆优质中转线路不限速SS具性价比的机场，秒开-4K视频，8K不卡。节点包括香港，台湾，日本，新加坡，美国，英国，瑞士，荷兰，土耳其等。不限-设备数量和每日用量，Netflix，hulu，Disney+等多国流媒体解锁，开放-ChatGPT Copilot等AI服务。提供<Strong>“不限时纯流量一次性套餐”</Strong></p>
-
-<h3>👉 5折年付优惠券：50%off </h3>
-<h3>👉 55折季/半年付优惠券：45%off</h3>
-<h3>👉 6折月付优惠券：40%off</h3>
-<h3>👉 5折一次性流量优惠券码：爽歪歪</h3>
 
 <h3>👉 官网地址：https://bit.ly/3VhZhNk</h3>
 
@@ -106,14 +84,15 @@
 <b><h2>6）[秒连云](https://mly03-1111.miaolianyun.my/#/register?code=6BTFtic3)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全大陆中转不限速大机场， 节点包括：香港，台湾，日本，新加坡，美国等。Netflix，Hulu，Disney+，Paramount等流媒体全解锁。解锁chatgpt。不限制设备数。<strong>月费低至 5 块</strong>，</p>
 
+<h3>👉 元旦优惠 时间：即时-2025年1月20日23:59</h3>
+<h3>👉 80折优惠码：MLY-80 购买月付/不限时使用 （5元套餐不参与）</h3>
+<h3>👉 75折优惠码：MLY-75 购买半年付使用</h3>
+<h3>👉 68折优惠码：MLY-68 购买 年付使用</h3>
+
 <h3>👉 官网地址：https://bit.ly/4gAutzh</h3>
 
 <b><h2>7）[HaloCloud](https://cloud.halo.do/#/auth/signup;referral=nmxKiD0h)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SS协议的高端专线机场，三网IEPL专线接入和低倍率国内中转线路，可用总带宽超10G。流媒体Netflix，DIsney+等都解锁，支持chatgpt。，港、台、日、新、美、 越南、泰国、马来西亚、 澳大利亚、英国、芬兰、加拿大、乌克兰、土耳其、罗马尼亚、 巴基斯坦等主流地区落地，不限制设备数和网络速度。中转计划提供中转+广移IEPL，专线计划提供三网IEPL+低倍率中转+沪日IPLC线路。节点低倍率低至0.5倍。高峰期4K流畅，8K不卡。</p>
-
-<h3>👉 双节专属优惠码 halo2025 ，即可享受所有套餐8折优惠</h3>
-
-<h3>👉 时间： 2024年12月25日至2025年1月5日</h3>
 
 <h3>👉 官网地址：https://bit.ly/3A8mJ88</h3>
 

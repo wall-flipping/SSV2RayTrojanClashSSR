@@ -18,18 +18,21 @@
 <b><h2>2）[FastLink](https://flafflnk.flaff9.cc/auth/register?code=je8N)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anycast全球加速技术，节点速度高达2Gbps，秒开4k、支持8K，IPLC，中转应有尽有，高峰期稳定，体验宛如身在海外，提供香/日/韩/台/新/美/俄/加/德/英/法/土/荷/印/阿根廷/澳大利亚/巴西等多国节点 全V2ray节点，高速稳定不怕墙，流媒体解锁，服务态度友好，提供美区APPleId，可以单独定制套餐VIP，<strong>现在注册即可白嫖三天体验套餐，白嫖优惠码：599_f3cz8bzm</strong>。</p>
 
+<h3>👉 春节优惠活动 8 折优惠码：CHUNJIE </h3>
+<h3>👉 所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上春节活动7折之后再八折相当于5.6折，力度相当诱人。</h3>
+
 <h3>👉 官网地址：https://bit.ly/439GVk1</h3>
 
 <b><h2>3）[SpeedCat](https://github01.youbbv.com/auth/register?code=7TiK)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;稳如闪电，快如肥猫，高端全专线 IPLC，无倍率套路，原生节点大机场，节点包括，港，台，美，日，新加坡，英国，马来西亚，阿根廷，土耳其。Netflix ,Disney+, hulu等当地流媒体全解锁，<strong>注册即可免费白嫖3天，白嫖优惠码：free </strong>。</p>
 
+<h3>👉 春节优惠活动 8 折优惠码：CHUNJIE70 </h3>
+<h3>👉 所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上春节活动7折之后再八折相当于5.6折，力度相当诱人。</h3>
+
 <h3>👉 官网地址：https://bit.ly/3JCIZJn</h3>
 
 <b><h2>4）[NiceDuck](https://my.niceduck.io/register?code=2o3T6rG1)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多入口隧道中转SS线路，国内多入口，高SLA保证高端大机场，低价格，高品质，速度拉满，有<strong> "流量包" </strong>套餐。节点包括：港，台，日，美，韩，新加坡等。全节点流媒体支持，包括ChatGPT/Netfilx/Disney+/Dazn/动画疯/Abema/DMM等，套餐可低至每月 6 块 6 毛 6。<Strong>赠送硬盘服Emby，配有国内直连线路和0.01倍率Emby专属节点，堪比爱优腾的体验，4K影片秒开，体验感拉满！</Strong></p>
-
-<h3>👉 圣诞元旦双节优惠活动 8 折优惠码：duck-8</h3>
-<h3>👉 活动时间：2024/12/20—2025/01/19</h3>
 
 <h3>👉 官网地址：https://bit.ly/3O13OiY</h3>
 
@@ -78,17 +81,16 @@
 <b><h2>6）[秒连云](https://mly03-1111.miaolianyun.my/#/register?code=6BTFtic3)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全大陆中转不限速大机场， 节点包括：香港，台湾，日本，新加坡，美国等。Netflix，Hulu，Disney+，Paramount等流媒体全解锁。解锁chatgpt。不限制设备数。<strong>月费低至 5 块</strong>，</p>
 
-<h3>👉 元旦优惠 时间：即时-2025年1月20日23:59</h3>
-<h3>👉 80折优惠码：MLY-80 购买月付/不限时使用 （5元套餐不参与）</h3>
-<h3>👉 75折优惠码：MLY-75 购买半年付使用</h3>
-<h3>👉 68折优惠码：MLY-68 购买 年付使用</h3>
-
 <h3>👉 官网地址：https://bit.ly/4gAutzh</h3>
 
 <b><h2>7）[HaloCloud](https://cloud.halo.do/#/auth/signup;referral=nmxKiD0h)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SS协议的高端专线机场，三网IEPL专线接入和低倍率国内中转线路，可用总带宽超10G。流媒体Netflix，DIsney+等都解锁，支持chatgpt。，港、台、日、新、美、 越南、泰国、马来西亚、 澳大利亚、英国、芬兰、加拿大、乌克兰、土耳其、罗马尼亚、 巴基斯坦等主流地区落地，不限制设备数和网络速度。中转计划提供中转+广移IEPL，专线计划提供三网IEPL+低倍率中转+沪日IPLC线路。节点低倍率低至0.5倍。高峰期4K流畅，8K不卡。</p>
 
-<h3>👉 9折优惠码： EXTRA10 ，优惠时间：即日起至2025年2月1日。</h3>
+<h3>👉 购买任何套餐半年，免费赠送一个月；购买一年，额外赠送两个月。活动时间：1月20日 - 2月1日。购买套餐后发工单申请。</h3>
+
+<h3>👉 春节 8 折优惠码： HappyNewYear ，活动日期：1月20日 - 2月10日。</h3>
+
+<h3>👉 Halo Media 影院营，拥有高达700TB的硬盘存储。所有用户皆可享受国际优化线路，畅快直连，看遍全球精彩视频。</h3>
 
 <h3>👉 官网地址：https://bit.ly/3A8mJ88</h3>
 

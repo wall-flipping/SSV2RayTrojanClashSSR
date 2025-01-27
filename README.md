@@ -43,6 +43,8 @@
 
 <h3>👉 新用户7.8折优惠码：m78-22off，永久有效</h3>
 
+<h3>👉 春节季付85折优惠码： season85， 半年付82折优惠码： halfyear82 ，年付8折优惠码： year80， 结束时间：2025/02/07</h3>
+
 <h3>👉 官网地址：https://bit.ly/3TJ0RYA</h3>
 
 <b><h2>6）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)</h2></b>
@@ -62,6 +64,8 @@
 
 <b><h2>2）[Miaona](https://miaona.co/#/register?code=VeKwsak1)</h2></b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高端全 IEPL 专线，SS协议，4K清晰不卡，8K流畅，流媒体解锁，高速稳定大机场，节点包括，港，台，美，日，新加坡，印度尼西亚，越南，菲律宾，韩国，泰国，柬埔寨，蒙古国，德国，土耳其，法国，阿根廷，尼日利亚等，年付最低可至15.6元/月。</p>
+
+<h3>👉 春节活动全场88折，优惠码  2527 ，活动结束时间  2025/2/5</h3>
 
 <h3>👉官网地址： https://bit.ly/3ugbftg</h3>
 

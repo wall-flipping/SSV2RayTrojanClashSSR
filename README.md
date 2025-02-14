@@ -2,8 +2,8 @@
 
 长期以来，我亲自体验并严格筛选了众多翻墙机场服务，这里整理出目前最稳定、最快速、性价比最高的推荐！无论你是科技达人还是网络新手，都能轻松享受全球网络自由、畅享极致影音体验，突破地域限制，体验国际级流媒体服务！
 
-- **机场纯小白？** [新手教程戳这里](https://github.com/wall-flipping/SSV2RayTrojanSSRClash/blob/master/content/content.md)
-- **找不到工具？**（支持 Android/IOS/鸿蒙/Windows/Mac/Linux 客户端）[科学上网客户端](https://github.com/wall-flipping/SSV2RayTrojanSSRClash/blob/master/content/%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD/kehuduan.md)
+- **机场纯小白？** [新手教程戳这里](https://github.com/wall-flipping/SSV2RayTrojanClashSSR/blob/master/content/content.md)
+- **找不到工具？**（支持 Android/IOS/鸿蒙/Windows/Mac/Linux 客户端）[科学上网客户端](https://github.com/wall-flipping/SSV2RayTrojanClashSSR/blob/master/content/%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD/kehuduan.md)
 
 ---
 

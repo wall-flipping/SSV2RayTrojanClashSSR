@@ -24,7 +24,6 @@
 - **流媒体全解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体，让你畅享海量高清视频。，满足高端用户严苛需求。
 - **独有特色**：独家保障新疆地区，支持 Windows/Mac/iOS/Android/路由器，多设备同时使用.
 - **专属福利**：注册即享 **3 天免费体验**（“白嫖”福利）。
-- **优惠活动**：春节期间享 85 折（优惠码：`15%OFF`，活动至 2025/02/14 23:59）。
 - [👉 官网地址](https://bit.ly/476L1M5)
 
 ### 3）[FastLink](https://flafflnk.flaff9.cc/auth/register?code=je8N)
@@ -33,8 +32,6 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
-- **优惠活动**：
-  - 元宵节期间 8 折优惠（优惠码：`CHUNJIE`），年付套餐自动叠加优惠，实际折扣低至 5.6 折！
 - [👉 官网地址](https://bit.ly/439GVk1)
 
 ### 4）[SpeedCat](https://github01.youbbv.com/auth/register?code=7TiK)
@@ -42,7 +39,6 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`free`）。
-- **春节特惠**：享 8 折优惠（优惠码：`CHUNJIE70`），年付套餐同样超值！
 - [👉 官网地址](https://bit.ly/3JCIZJn)
 
 ### 5）[NiceDuck](https://my.niceduck.io/register?code=2o3T6rG1)
@@ -50,7 +46,6 @@
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
 - **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
-- **优惠活动**：NiceDuck2025 春节期间享 77 折（优惠码：`duck-77`，有效期：2025/01/22—2025/02/16）。
 - [👉 官网地址](https://bit.ly/3O13OiY)
 
 ### 6）[M78星云](https://m78star.cloud/#/register?code=TfURQ1ug)

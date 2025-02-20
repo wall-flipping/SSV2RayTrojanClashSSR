@@ -102,19 +102,19 @@
 - **新用户福利**：注册即享 **免费白嫖体验**，零风险试用高品质服务！
 - [👉 官网地址](https://bit.ly/47oYLBG)
 
-### 6）[淘气兔](https://taoqitu.me/index.html?register=OdyZEGNV)
-- **核心优势**：全大陆中转不限速大机场，覆盖等，轻松解锁全球主流影视内容！
-- **节点地区**：包括香港，台湾，日本，新加坡，美国，马来西亚，俄罗斯，英国，西班牙，土耳其等。
+### 6）[随心飞](https://www.suixinfei.co/#/auth/signup;referral=lZCDAw1W)
+- **核心优势**：采用优质中转广移沪移线路，SS 协议大机场，确保节点全 1 倍率、无限速体验，让你在国内也能享受国际级网络表现。
+- **节点地区**：香港，澳门，日本，台湾，新加坡，美国，韩国，英国，越南，印度尼西亚，马来西亚，缅甸，老挝，柬埔寨，泰国，菲律宾，印度等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
-- **无限流量**：提供 **不限时“纯流量”套餐**，无月付、季付或年付限制，用多少算多少，月费低至 7.8 元，让你尽享无限畅游.
-- [👉 官网地址](https://bit.ly/4fivvyN)
+- **无限流量**：提供 **不限时“纯流量”套餐**，无月付、季付或年付限制，用多少算多少，让你尽享无限畅游.
+- [👉 官网地址](https://bit.ly/3Wv309S)
 
-### 7）[动力港](https://dkwi2-80432.dongligang.xyz/#/register?code=xUcZ8i2L)
+### 7）[千速喵Tsmeow](https://tmsreta.top/zh/#/auth/signup;referral=IoX959wk)
 - **核心优势**：全大陆优质中转线路，不限速 SS 机场，确保 4K 视频秒开、8K 超清不卡顿.
-- **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，荷兰，土耳其等。
+- **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
-- [👉 官网地址](https://bit.ly/3VhZhNk)
+- [👉 官网地址](https://bit.ly/4b5uYzO)
 
 ### 8）[HaloCloud](https://cloud.halo.do/#/auth/signup;referral=nmxKiD0h)
 - **核心优势**：采用 SS 协议高端专线，三网 IEPL 专线接入及低倍率中转线路，总带宽超 10G，打造超稳定、超高速网络通道。

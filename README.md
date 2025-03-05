@@ -32,6 +32,8 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
+- **优惠活动**：
+  - **妇女节 5.6 折**超值（优惠码：`WOMENSDAY`）结束时间：2025-03-15。所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上妇女节活动7折之后再8折相当于5.6折，力度相当诱人。
 - [👉 官网地址](https://bit.ly/439GVk1)
 
 ### 4）[SpeedCat](https://github01.youbbv.com/auth/register?code=7TiK)
@@ -39,6 +41,8 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`free`）。
+- **优惠活动**：
+  - **妇女节 5.6 折**超值（优惠码：`FUNVJIE`）结束时间：2025-03-15。所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上妇女节活动7折之后再8折相当于5.6折，力度相当诱人。
 - [👉 官网地址](https://bit.ly/3JCIZJn)
 
 ### 5）[NiceDuck](https://my.niceduck.io/register?code=2o3T6rG1)
@@ -85,6 +89,8 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT，多设备同时使用无限制。
 - **超值套餐**：提供0.2倍率节点，EMBY流媒体体验。提供游戏节点，10X倍率为电信联通双线BGP不限速，20X倍率为三线BGP，限速10Mbps每人，保证游戏稳定性。
 - **新用户福利**：注册即享 **3 天免费体验**！
+- **优惠活动**：
+  - 套餐 95 折（优惠码：`95Zhe`）。
 - [👉 官网地址](https://bit.ly/417uzIy)
 
 ### 4）[Miaona](https://miaona.co/#/register?code=VeKwsak1)

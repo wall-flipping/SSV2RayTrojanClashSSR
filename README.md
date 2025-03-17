@@ -32,8 +32,6 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
-- **优惠活动**：
-  - **妇女节 5.6 折**超值（优惠码：`WOMENSDAY`）结束时间：2025-03-15。所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上妇女节活动7折之后再8折相当于5.6折，力度相当诱人。
 - [👉 官网地址](https://bit.ly/439GVk1)
 
 ### 4）[SpeedCat](https://github01.youbbv.com/auth/register?code=7TiK)
@@ -41,8 +39,6 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`free`）。
-- **优惠活动**：
-  - **妇女节 5.6 折**超值（优惠码：`FUNVJIE`）结束时间：2025-03-15。所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上妇女节活动7折之后再8折相当于5.6折，力度相当诱人。
 - [👉 官网地址](https://bit.ly/3JCIZJn)
 
 ### 5）[NiceDuck](https://my.niceduck.io/register?code=2o3T6rG1)
@@ -81,6 +77,8 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
+- **优惠活动**：
+  - 月付 / 季付 / 一次性套餐 75折（优惠券码：`TSM75` ,结束时间：2025-3-31 00:00 ）。
 - [👉 官网地址](https://bit.ly/4b5uYzO)
 
 ### 3）[AIFUN](https://dash.afun.la/register?code=O023jSpg)

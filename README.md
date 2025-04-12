@@ -124,10 +124,10 @@
   
   👉 [https://t.me/soso](https://t.me/soso)
 
-- **[暗精灵社工库](https://t.me/AJL02_bot?start=7597927467)**  
+- **[暗精灵社工库](https://t.me/AJL01_bot?start=7597927467)**  
   暗精灵社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！
   
-  👉 [https://t.me/AJL02_bot?start=7597927467](https://t.me/AJL02_bot?start=7597927467)
+  👉 [https://t.me/AJL01_bot?start=7597927467](https://t.me/AJL01_bot?start=7597927467)
 
 - **[小孩哥社工库](http://t.me/xiaohaigeSGK1_bot?start=gnpNw9HLkXKN4LO)**  
   小孩哥社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！

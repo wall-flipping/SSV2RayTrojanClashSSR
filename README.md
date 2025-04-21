@@ -32,6 +32,9 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
+  - 2025五一5.6折超值活动。
+  - 优惠码：`FL51`
+  - 所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上五一活动7折之后再8折相当于5.6折，力度相当诱人。
 - [👉 官网地址](https://bit.ly/439GVk1)
 
 ### 4）[SpeedCat](https://github01.youbbv.com/auth/register?code=7TiK)
@@ -39,6 +42,9 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`free`）。
+  - 2025五一5.6折超值活动。
+  - 优惠码：`SC51`
+  - 所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上五一活动7折之后再8折相当于5.6折，力度相当诱人。
 - [👉 官网地址](https://bit.ly/3JCIZJn)
 
 ### 5）[NiceDuck](https://my.niceduck.io/register?code=2o3T6rG1)
@@ -58,9 +64,9 @@
 - **优惠活动**：
   - 新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
   - 2025五一优惠活动
-  - 季付85折优惠码： season85
-  - 半年付82折优惠码： halfyear82
-  - 年付8折优惠码： year80
+  - 季付85折优惠码：`season85`
+  - 半年付82折优惠码： `halfyear82`
+  - 年付8折优惠码： `year80`
   - 有效期：即日起-2025/05/07
 - [👉 官网地址](https://bit.ly/3TJ0RYA)
 

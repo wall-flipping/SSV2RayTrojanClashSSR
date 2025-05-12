@@ -24,8 +24,6 @@
 - **流媒体全解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体，让你畅享海量高清视频。，满足高端用户严苛需求。
 - **独有特色**：独家保障新疆地区，支持 Windows/Mac/iOS/Android/路由器，多设备同时使用.
 - **专属福利**：注册即享 **3 天免费体验**（“白嫖”福利）。
-- **优惠活动**：
-  - 五一享全场 85 折（优惠码：`15%OFF`，有效期至2025年05月06日 23:59:59）。
 - [👉 官网地址](https://bit.ly/476L1M5)
 
 ### 3）[FastLink](https://flafflnk.flaff9.cc/auth/register?code=je8N)
@@ -66,12 +64,6 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
 - **超值赠送**：购买 3 个月以上套餐赠送 Netflix、Disney+ 独立车位；同时提供不限时纯流量包，月费低至 8 元以下；赠送 Emby 服务（含成人版），海量 4K 高清电影、电视剧、热门综艺实时更新.
 - **新用户福利**：新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
-- **优惠活动**：
-  - 2025五一优惠活动
-  - 季付85折优惠码： `season85`
-  - 半年付82折优惠码：`halfyear82`
-  - 年付8折优惠码：`year80`
-  - 有效期：即日起-2025/05/07
 - [👉 官网地址](https://bit.ly/3TJ0RYA)
 
 ---
@@ -94,8 +86,6 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
-- **优惠活动**：
-  - 五一月付 / 季付 / 一次性套餐 85折 优惠（优惠码：`51meow`，有效期至2025年05月05日）。
 - [👉 官网地址](https://bit.ly/4b5uYzO)
 
 ### 3）[AIFUN](https://dash.afun.la/register?code=O023jSpg)
@@ -106,12 +96,6 @@
 - **新用户福利**：注册即享 **3 天免费体验**！
 - **长期优惠活动**：
   - 套餐 95 折（优惠码：`95Zhe`）。
-- **优惠活动**：
-  - 五一月付9折（优惠码：`20255190`）。
-  - 五一季付88折（优惠码：`20255188`）。
-  - 五一半年付85折（优惠码：`20255185`）。
-  - 五一年付8折（优惠码：`20255180`）。
-  - 直至2025/5/5日结束。
 - [👉 官网地址](https://bit.ly/417uzIy)
 
 ### 4）[Miaona](https://miaona.co/#/register?code=VeKwsak1)
@@ -138,10 +122,17 @@
 - **节点地区**：包括香港，台湾，日本，新加坡，美国，马来西亚，俄罗斯，英国，西班牙，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **无限流量**：提供 **不限时“纯流量”套餐**，无月付、季付或年付限制，用多少算多少，月费低至 7.8 元，让你尽享无限畅游.
-- **优惠活动**：
-  - 五一月付、半年付、年付专属特惠（优惠码：`51@90`）。
-  - 活动截止：2025年5月5日 23:00
 - [👉 官网地址](https://bit.ly/4fivvyN)
+
+### 7）[饭饭云](https://ffkjwl.com/#/register?code=9DwbVMfh)
+- **核心优势**：全千兆高速中转+IPLC专线线路不限速大机场，满足各种需求，特殊时期稳定不怕墙，8K秒开！
+- **节点地区**：包括香港，台湾，日本，新加坡，美国，韩国，印度，德国，菲律宾，巴西，俄罗斯，土耳其，阿根廷，英国，加拿大，卢森堡，荷兰，尼日利亚等。
+- **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
+- **专属福利**：购买任意套餐年付/半年付，套餐有效期内送Netflix、Disney+、tidal、Amazon Prime Video、Spotify高级会员账号使用！
+- **专属优惠活动**：
+  - 月付，季付 9折（优惠码：`wallkiller9`）。
+  - 半年付，年付 85折（优惠码：`wallkiller85`）。
+- [👉 官网地址](https://ffkjwl.com/#/register?code=9DwbVMfh) 
 
 ---
 

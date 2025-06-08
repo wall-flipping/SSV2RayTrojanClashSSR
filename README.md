@@ -50,7 +50,7 @@
   - 所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上618活动7折之后再8折相当于5.6折，力度相当诱人。
 - [👉 官网地址](https://bit.ly/3JCIZJn)
 
-### 5）[NiceDuck](https://my.niceduck.io/register?code=2o3T6rG1)
+### 5）[NiceDuck](https://dash.niceduck.io/register?code=2o3T6rG1)
 - **核心优势**：多入口隧道中转 SS 线路，国内直连加速，高 SLA 保障，让你在任何网络环境下都能畅享全球高速上网。
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
@@ -58,7 +58,7 @@
 - **优惠活动**：
   - 端午节618全场统统75折优惠码：`duck-75`
   - 有效期：2025/05/31—2025/06/22    
-- [👉 官网地址](https://bit.ly/3O13OiY)
+- [👉 官网地址](https://bit.ly/4kwwhMf)
 
 ### 6）[M78星云](https://m78star.cloud/#/register?code=TfURQ1ug)
 - **核心优势**：G 口负载，IPLC 专线高端 SS，带来 4K 流畅、8K 不卡的极致体验。不限速、不限设备，随心畅享。

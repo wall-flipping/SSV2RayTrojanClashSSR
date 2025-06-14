@@ -25,6 +25,9 @@
 - **流媒体全解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体，让你畅享海量高清视频。，满足高端用户严苛需求。
 - **独有特色**：独家保障新疆地区，支持 Windows/Mac/iOS/Android/路由器，多设备同时使用.
 - **专属福利**：注册即享 **3 天免费体验**（“白嫖”福利）。
+- **优惠活动**：
+  - 2025 618 85折超值活动优惠码：`15%OFF`
+  - 活动时间：即日起至2025/06/20 23:59
 - [👉 官网地址](https://bit.ly/476L1M5)
 
 ### 3）[FastLink](https://flafflnk.flaff9.cc/auth/register?code=je8N)
@@ -68,9 +71,9 @@
 - **新用户福利**：新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
 - **优惠活动**：
   - 2025 618优惠活动
-  - 季付85折优惠码： season85
-  - 半年付82折优惠码： halfyear82
-  - 年付8折优惠码： year80
+  - 季付85折优惠码： `season85`
+  - 半年付82折优惠码： `halfyear82`
+  - 年付8折优惠码： `year80`
   - 有效期：即日起-2025/06/30
 - [👉 官网地址](https://bit.ly/3TJ0RYA)
 

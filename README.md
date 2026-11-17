@@ -21,13 +21,13 @@
   - 流量抽奖：抽取不同的套餐流量包，搏一搏，单车变摩托。
 - [👉 官网地址](https://296788.l49.net/#/auth/7wXZwXdx)
 
-### 2）[MESL](https://portal.meslcloud.net/#/register?code=WniLD0Xj)
+### 2）[MESL](https://getmesl.com/#/register?code=WniLD0Xj)
 - **核心优势**：整合阿里云、腾讯云、优刻得 UDPN 等多个 BGP 入口，采用 BGP+IPLC 专线传输，确保高端大机场的稳定性和高速率.
 - **节点地区**：香港，澳门，日本，台湾，新加坡，美国，蒙古，韩国，朝鲜，印度，印度尼西亚，越南，菲律宾，柬埔寨，马来西亚，泰国，哥伦比亚，缅甸，孟加拉国，尼泊尔，澳大利亚，新西兰，加拿大，墨西哥，巴西，智利，阿根廷，秘鲁，玻利维亚，德国，英国，法国，荷兰，新西兰，爱尔兰，意大利，卢森堡，瑞士，丹麦，芬兰，瑞典，挪威，奥地利，捷克，冰岛，土耳其，比利时，葡萄牙，波兰，爱沙尼亚，匈牙利，俄罗斯，乌克兰，摩尔多瓦，罗马尼亚，保加利亚，塞尔维亚，希腊，以色列，伊朗，多哥，埃及，约旦，迪拜，沙特阿拉伯，阿曼，乌兹别克斯坦，巴基斯坦，哈萨克斯坦，尼日利亚，安哥拉，南非，南极等数十个国家和地区。
 - **流媒体全解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体，让你畅享海量高清视频。，满足高端用户严苛需求。
 - **独有特色**：独家保障新疆地区，支持 Windows/Mac/iOS/Android/路由器，多设备同时使用.
 - **专属福利**：注册即享 **3 天免费体验**（“白嫖”福利）。
-- [👉 官网地址](https://portal.meslcloud.net/#/register?code=WniLD0Xj)
+- [👉 官网地址](https://getmesl.com/#/register?code=WniLD0Xj)
 
 ### 3）[FatcatCloud](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 - **核心优势**：全中转大带宽， IEPL专线，不限速高端大机场，秒开4K，支持8K！
@@ -42,11 +42,6 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
 - **超值赠送**：购买 3 个月以上套餐赠送 Netflix、Disney+ 独立车位；同时提供不限时纯流量包，月费低至 8 元以下；赠送 Emby 服务（含成人版），海量 4K 高清电影、电视剧、热门综艺实时更新.
 - **新用户福利**：新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
-- **超值活动**：双十一优惠活动
-  - 季付 85 折优惠 （优惠码：`season85`）。
-  - 半年付 82 折优惠 （优惠码：`halfyear82`）。
-  - 年付 8 折优惠 （优惠码：`year80`）。
-  - 有效期：即日起-2026/11/16
 - [👉 官网地址](https://invite.m78star.cn/#/register?code=TfURQ1ug)
 
 ### 5）[智连云](https://zzzzz8.com/register?code=sWdm0JKC)
@@ -160,10 +155,10 @@
 
 这些网站能帮助你解决临时验证、下载视频、寻找经典游戏等需求，让你的海外体验更加丰富便捷：
 
-- **[爱壹帆](https://www.iyf.tv/)**  
+- **[酷播](https://www.kubb.tv)**  
   海量高清视频平台，涵盖电视剧、电影、动漫、综艺、纪录片及新闻，实时更新，让海外观影变得轻松有趣！
   
-  👉 [网站地址](https://www.iyf.tv/)
+  👉 [网站地址](https://www.kubb.tv)
 
 - **[临时邮箱收验证码](https://temp-mail.org)**  
   临时邮箱接收验证码，保护隐私！
